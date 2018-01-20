@@ -1,1 +1,1 @@
-# 30 Generator System project
+# 30 Generator System
