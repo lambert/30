@@ -3,11 +3,5 @@ docs/*~
 docs/*.html
 docs/*.pdf
 ecad/gschem/plotfiles
-ecad/pcb/bom
-ecad/pcb/eyecandy
-ecad/pcb/fab
-ecad/pcb/plotfiles
-ecad/pcb/pnp
-ecad/pcb/test
-mcad/eyecandy
-mcad/plotfiles
+ecad/pcb/*.save
+
